@@ -4,7 +4,7 @@
   <parameters>
     <property>
         <name>oozie.use.system.libpath</name>
-        <value>true</value>
+        <value>false</value>
     </property>
   </parameters>
   <controls>
